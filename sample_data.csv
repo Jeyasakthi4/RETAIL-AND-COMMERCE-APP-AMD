@@ -1,0 +1,32 @@
+id,name,category,price,stock,sales,color
+1,Samsung 65" 4K TV,Electronics,45000,12,145,Black
+2,Apple AirPods Pro,Electronics,24990,85,520,White
+3,Dell XPS 13 Laptop,Electronics,95000,8,38,Silver
+4,iPad Air,Electronics,59999,15,92,Space Gray
+5,Sony WH-1000XM5 Headphones,Electronics,29990,42,178,Black
+6,GoPro Hero 11,Electronics,42000,5,67,Black
+7,Nike Air Max 270,Fashion,8999,150,892,Black
+8,Adidas Ultraboost 22,Fashion,12999,3,245,Blue
+9,Levis 501 Jeans,Fashion,3499,220,1250,Blue
+10,Tommy Hilfiger T-Shirt,Fashion,2299,85,445,White
+11,Zara Premium Jacket,Fashion,6999,28,156,Black
+12,Calvin Klein Sunglasses,Fashion,8999,62,321,Black
+13,Dyson V15 Vacuum,Home,64999,9,73,Silver
+14,Philips Hue Smart Lights,Home,4999,145,678,White
+15,Samsung Washing Machine,Home,34999,6,45,Silver
+16,Instant Pot Pro,Home,12999,52,389,Black
+17,Nespresso Machine,Home,18999,31,167,Black
+18,Robot Vacuum Cleaner,Home,22999,14,89,Black
+19,Yonex Badminton Racket,Sports,8999,78,342,Red
+20,Decathlon Yoga Mat,Sports,999,456,2134,Purple
+21,Fitbit Charge 5,Sports,12999,67,423,Black
+22,TRX Suspension Training,Sports,22999,18,134,Black
+23,Hydro Flask Water Bottle,Sports,3499,234,987,Blue
+24,Dyson Supersonic Hair Dryer,Beauty,39999,12,156,Pink
+25,Foreo LUNA Skincare Device,Beauty,12999,34,267,Pink
+26,MAC Makeup Kit,Beauty,4999,89,523,Multicolor
+27,Nykaa Cosmetics Bundle,Beauty,2999,156,834,Multicolor
+28,Philips Epilator,Beauty,8999,45,278,White
+29,Atomic Habits,Books,399,567,3456,White
+30,Sapiens,Books,599,423,2156,Blue
+31,The Lean Startup,Books,499,289,1234,Orange
